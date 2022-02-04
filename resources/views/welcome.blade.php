@@ -10,12 +10,12 @@
                     <img class="w-100" src="img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h3 class="text-white mb-3 d-none d-sm-block">Best Pet Services</h3>
+                            <!-- <h3 class="text-white mb-3 d-none d-sm-block">Best Pet Services</h3>
                             <h1 class="display-3 text-white mb-3">Keep Your Pet Happy</h1>
                             <h5 class="text-white mb-3 d-none d-sm-block">Duo nonumy et dolor tempor no et. Diam sit
                                 diam sit diam erat</h5>
                             <a href="" class="btn btn-lg btn-primary mt-3 mt-md-4 px-4">Book Now</a>
-                            <a href="" class="btn btn-lg btn-secondary mt-3 mt-md-4 px-4">Learn More</a>
+                            <a href="" class="btn btn-lg btn-secondary mt-3 mt-md-4 px-4">Learn More</a> -->
                         </div>
                     </div>
                 </div>
@@ -23,12 +23,12 @@
                     <img class="w-100" src="img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h3 class="text-white mb-3 d-none d-sm-block">Best Pet Services</h3>
+                            <!-- <h3 class="text-white mb-3 d-none d-sm-block">Best Pet Services</h3>
                             <h1 class="display-3 text-white mb-3">Pet Spa & Grooming</h1>
                             <h5 class="text-white mb-3 d-none d-sm-block">Duo nonumy et dolor tempor no et. Diam sit
                                 diam sit diam erat</h5>
                             <a href="" class="btn btn-lg btn-primary mt-3 mt-md-4 px-4">Book Now</a>
-                            <a href="" class="btn btn-lg btn-secondary mt-3 mt-md-4 px-4">Learn More</a>
+                            <a href="" class="btn btn-lg btn-secondary mt-3 mt-md-4 px-4">Learn More</a> -->
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
 
             <div class="col-md-8">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="img/product-01.jpg" alt="">
+                    <img class="card-img-top" src="img/product-02.jpg" alt="">
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Product name</h5>
@@ -65,13 +65,13 @@
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -86,20 +86,20 @@
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="img/product-03.jpg" alt="">
+                    <img class="card-img-top" src="img/product-02.jpg" alt="">
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Product name</h5>
@@ -107,34 +107,13 @@
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-8">
-                <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="img/product-03.jpg" alt="">
-                    <div class="card-body text-center p-0">
-                        <div class="team-text d-flex flex-column justify-content-center bg-light">
-                            <h5>Product name</h5>
-                            <!-- <i>Trainer</i> -->
-                        </div>
-                        <div class="team-social d-flex align-items-center justify-content-center bg-dark">
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -149,13 +128,34 @@
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
                             <a class="btn btn-outline-primary rounded-circle text-center px-0"
-                                style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
+                                style="width: 36px; height: 36px;" href="#"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="team card position-relative overflow-hidden border-0 mb-4">
+                    <img class="card-img-top" src="img/product-02.jpg" alt="">
+                    <div class="card-body text-center p-0">
+                        <div class="team-text d-flex flex-column justify-content-center bg-light">
+                            <h5>Product name</h5>
+                            <!-- <i>Trainer</i> -->
+                        </div>
+                        <div class="team-social d-flex align-items-center justify-content-center bg-dark">
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                                style="width: 36px; height: 36px;" href="#"></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                                style="width: 36px; height: 36px;" href="#"></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                                style="width: 36px; height: 36px;" href="#"></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center px-0"
+                                style="width: 36px; height: 36px;" href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,7 @@
         <div class="row pb-3">
             <div class="col-lg-4 mb-4">
                 <div class="card border-0 mb-2">
-                    <img class="card-img-top" src="img/blog-1.jpg" alt="">
+                    <img class="card-img-top" src="img/blog_1.jpg" alt="">
                     <div class="card-body bg-light p-4">
                         <h4 class="card-title text-truncate">Diam amet eos at no eos</h4>
 
@@ -252,7 +252,7 @@
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card border-0 mb-2">
-                    <img class="card-img-top" src="img/blog-2.jpg" alt="">
+                    <img class="card-img-top" src="img/blog_3.jpg" alt="">
                     <div class="card-body bg-light p-4">
                         <h4 class="card-title text-truncate">Diam amet eos at no eos</h4>
 
@@ -264,7 +264,7 @@
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card border-0 mb-2">
-                    <img class="card-img-top" src="img/blog-3.jpg" alt="">
+                    <img class="card-img-top" src="img/blog_1.jpg" alt="">
                     <div class="card-body bg-light p-4">
                         <h4 class="card-title text-truncate">Diam amet eos at no eos</h4>
 
