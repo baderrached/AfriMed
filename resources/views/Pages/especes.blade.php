@@ -13,24 +13,26 @@
                             <!-- Tab Nav -->
                             <ul class="nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#man"
-                                        role="tab">Man</a></li>
+                                        role="tab">Bovins</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#women"
-                                        role="tab">Woman</a></li>
+                                        role="tab">Camélidés</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#kids"
-                                        role="tab">Kids</a></li>
+                                        role="tab">Canins</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#accessories"
-                                        role="tab">Accessories</a></li>
+                                        role="tab">Carpins</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#essential"
-                                        role="tab">Essential</a></li>
+                                        role="tab">Équidés</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#prices"
-                                        role="tab">Prices</a></li>
+                                        role="tab">Lapins</a></li>
 
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#accessories"
-                                        role="tab">Accessories</a></li>
+                                        role="tab">Ovins</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#essential"
-                                        role="tab">Essential</a></li>
+                                        role="tab">Poissons</a></li>
                                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#prices"
-                                        role="tab">Prices</a></li>
+                                        role="tab">Porcins</a></li>
+                                        <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#prices"
+                                        role="tab">Volailles</a></li>
                             </ul>
                             <!--/ End Tab Nav -->
                         </div>
@@ -51,7 +53,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span>$29.0000</span>
                                                     </div>
@@ -70,7 +72,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -87,7 +89,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -105,7 +107,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -122,7 +124,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -140,7 +142,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -157,7 +159,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -170,12 +172,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
@@ -203,7 +205,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -220,7 +222,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -237,7 +239,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -255,7 +257,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -272,7 +274,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -290,7 +292,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -307,7 +309,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -320,12 +322,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
@@ -353,7 +355,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -370,7 +372,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -387,7 +389,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -405,7 +407,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -422,7 +424,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -440,7 +442,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -457,7 +459,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -470,12 +472,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
@@ -503,7 +505,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -520,7 +522,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -537,7 +539,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -555,7 +557,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -572,7 +574,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -590,7 +592,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -607,7 +609,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -620,12 +622,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
@@ -653,7 +655,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -670,7 +672,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -687,7 +689,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -705,7 +707,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -722,7 +724,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -740,7 +742,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -757,7 +759,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -770,12 +772,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
@@ -803,7 +805,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Hot Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -820,7 +822,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Pink Show</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -837,7 +839,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -855,7 +857,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Women Pant Collectons</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -872,7 +874,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Bags Collection</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -890,7 +892,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Awesome Cap For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -907,7 +909,7 @@
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Polo Dress For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     
                                                 </div>
                                             </div>
@@ -920,12 +922,12 @@
                                                             src="https://via.placeholder.com/550x750" alt="#">
                                                         <img class="hover-img" src="https://via.placeholder.com/550x750"
                                                             alt="#">
-                                                        <span class="out-of-stock">Hot</span>
+                                                        <span class="out-of-stock">New</span>
                                                     </a>
                                                     
                                                 </div>
                                                 <div class="product-content">
-                                                    <h3><a href="/product">Black Sunglass For Women</a></h3>
+                                                    <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
                                                         <span class="old">$60.00</span>
                                                         <span>$50.00</span>
