@@ -55,7 +55,7 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span>$29.0000</span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -179,8 +179,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -329,8 +329,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -479,8 +479,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -629,8 +629,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -779,8 +779,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -929,8 +929,8 @@
                                                 <div class="product-content">
                                                     <h3><a href="/product">Product name</a></h3>
                                                     <div class="product-price">
-                                                        <span class="old">$60.00</span>
-                                                        <span>$50.00</span>
+                                                        <span class="old"></span>
+                                                        <span></span>
                                                     </div>
                                                 </div>
                                             </div>
